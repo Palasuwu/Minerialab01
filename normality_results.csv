@@ -1,0 +1,15 @@
+Variable,P-Value,Distribución
+id,2.892576702961237e-95,No Normal
+budget,1.2524427050083817e-121,No Normal
+revenue,2.1507949166188506e-126,No Normal
+runtime,2.317678982765526e-81,No Normal
+popularity,8.994242505599026e-133,No Normal
+voteAvg,1.396962171040064e-93,No Normal
+voteCount,5.030390717205568e-122,No Normal
+genresAmount,3.05533832826231e-73,No Normal
+productionCoAmount,7.452280687410657e-100,No Normal
+productionCountriesAmount,6.238120334309629e-127,No Normal
+actorsAmount,3.780500512570589e-135,No Normal
+castWomenAmount,3.1211654004623873e-134,No Normal
+castMenAmount,1.3479641962008655e-132,No Normal
+releaseYear,6.0873981450121835e-102,No Normal
